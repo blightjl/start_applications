@@ -1,2 +1,2 @@
 # start_applications
-start multiple applicaitons from CLI
+start multiple applications from CLI
